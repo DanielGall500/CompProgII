@@ -1,4 +1,2 @@
-# softwarepro2
-
-
-hi daniel
+# Computer Programming II Module
+#Practical Exercises
